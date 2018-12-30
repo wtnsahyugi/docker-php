@@ -1,1 +1,1 @@
-<?php echo 'asd'; ?>
+<?php phpinfo(); ?>
